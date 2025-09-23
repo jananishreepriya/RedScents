@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:sans-serif;
+  background-color: antiquewhite;
+  color: black;
+  line-height: 1.6;
+}
+
+
+/* Header */
+header {
+  background-color: darkred;
+  color: black;
+  text-align: center;
+  padding: 10px;
+
+}
+
+header img {
+  width: 60px;
+  border-radius: 50%;
+}
+
+/* Navigation */
+nav {
+  background-color: indianred;
+  display: flex;
+  justify-content: center;
+  padding: 10px ;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 20px;
+}
+
+nav a:hover {
+  background-color: darkred;
+}
+
+/* Container Layout */
+.container {
+  display: flex;
+  padding: 30px;
+  gap: 30px;
+  margin-top: 70px;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 40%;
+  background-color: #FF7A7A;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.sidebar:hover {
+  background-color: darkred;
+}
+
+.sidebar h1 {
+  margin-bottom: 50px;
+  color: black;
+}
+
+.sidebar p{
+  color: white;
+  padding-left: 50px;
+}
+
+.sidebar ul{
+  padding-left: 50px;
+  color: white;
+}
+
+/* Main Content */
+main {
+  width: 60%;
+  background-color: indianred;
+  padding: 50px;
+  border-radius: 15px;
+}
+
+main:hover {
+  background-color: darkred;
+}
+
+main h2 {
+  color: #d6336c;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: white;
+  color: black;
+  margin-top: 25px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  border-color: darkred;
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+
+button:hover {
+  background-color: gray;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 2px solid indianred;
+  background-color: black;
+  color: white;
+}
+
+th {
+  background-color: white;
+  color: darkred;
+}
+
+/* Lists */
+article ol {
+  margin-top: 10px;
+  padding-left: 20px;
+  color: black;
+}
+
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: indianred;
+  color: black;
+  margin-top: 100px;
+}
+.spac{
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
