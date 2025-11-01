@@ -1,17 +1,31 @@
- 🌿 RedScents – Natural Perfume Website - Internship Project at Gurumantra4u
-🔗Live Site: https://redscents.netlify.app/
+🌿 RedScents – Natural Perfume Website
 
-Tech Stack: HTML, CSS  
-Role: Web Development Intern  
-Highlights:
-- Designed and developed a responsive perfume brand website using semantic HTML and custom CSS styling.
-- Created structured sections including Home, About, Products, Contact, and Eco Features.
-- Implemented a product catalog with tabular layout and embedded icons for visual appeal.
-- Applied clean design principles and eco-conscious branding elements.
-- Gained hands-on experience in hosting and deploying via Netlify.
+A responsive and eco-conscious perfume brand website built during my internship at Gurumantra4u. This project showcases clean UI design, semantic HTML structure, and custom CSS styling to promote natural fragrance products.
 
-Skills Gained:
-- Semantic HTML structuring  
-- CSS layout, styling, and responsiveness  
-- Web hosting and deployment  
-- Branding through UI design
+🔗 Live Demo: https://redscents.netlify.app/
+
+Internship Role
+
+Position: Web Development Intern  
+Organization: Gurumantra4u  
+Duration: May - June 2025 
+
+Responsibilities:
+- Designed and developed the RedScents website from scratch  
+- Implemented structured sections and product catalog  
+- Applied branding principles and eco-friendly messaging  
+- Deployed the site using Netlify
+
+Features
+
+- Home Page – Welcoming message and brand introduction  
+- About Us – Philosophy and natural fragrance mission  
+- Products – Tabular layout of perfume types and prices  
+- Eco Features – Icons and highlights of sustainable practices  
+- Contact Section – Email and footer branding  
+- Responsive Design – Mobile-friendly layout
+
+Tech Stack
+
+- Frontend: HTML, CSS  
+- Deployment: Netlify
