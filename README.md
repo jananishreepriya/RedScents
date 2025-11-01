@@ -4,6 +4,11 @@ A responsive and eco-conscious perfume brand website built during my internship 
 
 🔗 Live Demo: https://redscents.netlify.app/
 
+Preview
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/90979b86-f31c-4d0f-82f3-bc4aa477b5ad" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/86b2111d-c112-4c70-9589-683a705b0582" />
+<img width="1909" height="1079" alt="image" src="https://github.com/user-attachments/assets/53b369de-8227-4d26-a243-13b9c536a43e" />
+
 Internship Role
 
 Position: Web Development Intern  
